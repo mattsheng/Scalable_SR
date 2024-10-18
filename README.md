@@ -11,6 +11,10 @@ Inspired by the idea of Parametic-Assisted by Nonparametric (PAN) introduced in 
     - observation error (tunable signal-to-noise ratio)
     - irrelevant features
 
+On the extended Feynman datasets, PAN+SR consistently improves the standalone SR methods in both symbolic solution rate and predictive accuracy.
+<p align="center">
+<img src="postprocessing/figs/fig_github_banner.png" width=650/>
+</p>
 
 # Using PAN+SR
 

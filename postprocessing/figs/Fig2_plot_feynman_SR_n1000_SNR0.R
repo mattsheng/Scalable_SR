@@ -133,6 +133,10 @@ pdf(file = "fig2.pdf", width = 12, height = 6)
 combined_plot
 dev.off()
 
-
-
-
+github_plot <- (p_r2 | p_solu_rate) +
+  plot_layout(guides = 'collect') &
+  theme(legend.position = "bottom",
+        legend.margin = margin(t = -15, unit = "pt"))
+png(file = "fig_github_banner.png", width = 20, height = 12, units = "cm", res = 300)
+github_plot
+dev.off()
