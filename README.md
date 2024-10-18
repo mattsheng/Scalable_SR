@@ -230,9 +230,9 @@ A pre-print of the current version is available:
 
 Ye, S. and Li, M. (2024). 
 Ab initio nonparametric variable selection for scalable Symbolic Regression with large $p$. 
-[arXiv](https://arxiv.org)
+[arXiv](https://arxiv.org/abs/2410.13681)
 
 
 # Contact
 
-Shengbin Ye (@mattsheng), sy53 dot rice dot edu
+Shengbin Ye, sy53 dot rice dot edu
